@@ -76,4 +76,3 @@ class CreatePoll extends Component
             return view('livewire.create-poll');
         }
 }
-?>

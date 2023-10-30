@@ -25,6 +25,6 @@
                 @enderror
             @endforeach
         </div>
-        <button class="btn" type="submit">Create Poll</button>
+        <button  type="submit">Create Poll</button>
     </form>
 </div>
