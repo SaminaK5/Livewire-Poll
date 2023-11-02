@@ -14,6 +14,6 @@
             @endforeach
 
         @empty
-            <div class="text-gray-500">No polls</div>
+            <div class="text-gray-500">No polls available : please create</div>
     @endforelse
 </div>
