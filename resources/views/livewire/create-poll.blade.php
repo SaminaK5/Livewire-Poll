@@ -25,10 +25,8 @@
                 @enderror
             @endforeach
         </div>
-<<<<<<< HEAD
-        <button class="btn" type="submit">Create Poll for above options</button>
-=======
-        <button class="btn" type="submit">CREATE POLL</button>
->>>>>>> new_feature
+
+        <button class="btn" type="submit">Create Poll </button>
+
     </form>
 </div>
